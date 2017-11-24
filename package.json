@@ -1,0 +1,24 @@
+{
+  "name": "cli39",
+  "version": "1.0.0",
+  "description": "Command line interface for Bip39 mnemonic generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bip39",
+    "bitcoin",
+    "cash",
+    "mnemonic",
+    "phrase",
+    "words",
+    "wallet"
+  ],
+  "author": "Diego Savardi",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.4.0",
+    "jest": "^21.2.1"
+  }
+}
